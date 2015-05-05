@@ -23,7 +23,7 @@ Documentation
 Version History
 -------------------
 
-* [v 1.0.0](https://github.com/sparkfun/SparkFun_BLE_Mate2_Arduino_Library/tree/V_1.0.0) - Initial release
+* [v 1.0.0](https://github.com/sparkfun/SparkFun_BLE_Mate2_Arduino_Library/tree/v_1.0.0) - Initial release
 
 License Information
 -------------------
