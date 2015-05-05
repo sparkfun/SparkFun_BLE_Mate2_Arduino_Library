@@ -18,7 +18,6 @@ Code developed in Arduino 1.0.6, on an Arduino Pro 5V.
 #define BLEMate2_h
 
 #include <Arduino.h>
-#include <SoftwareSerial.h>
 
 class BLEMate2
 {
